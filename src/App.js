@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+        <img src={logo1} className="App-logo" alt="logo" />
         <p>
           Austin Garner 2023
         </p>
